@@ -19,3 +19,4 @@ Please research the options and features of this site.  Address the following qu
 1. Create a PHP file called testGit.php that displays your name. Use Git to move it to your repository.  
 1. Pull a copy of that file from your repository down to your Git folder.  Make a change and push it back up to your repository.
 1.  Please include a link to your repository when submitting this assignment.
+
