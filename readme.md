@@ -1,4 +1,4 @@
-#Assignment: Download Git Client & Create a Repository account#
+#Assignment: Download Git Client & Create a Repository account
 Download the Git client software for your laptop or desktop machine and install it.
 
 Create a Git repository account on one of the Git enabled websites.  GitHub is the best known account and the one we recommend if you do not already have a Git repo. BitBucket is another common Git account host.
